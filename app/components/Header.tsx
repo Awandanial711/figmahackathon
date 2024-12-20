@@ -21,7 +21,7 @@ const Header = () => {
             <FaShoppingCart className="text-xl" />
             <span className="hidden sm:inline">Cart</span>
             <div className="flex items-center justify-center w-6 h-6 bg-[#007580] text-white text-sm rounded-full">
-              2
+              1
             </div>
           </button>
         </Link>
